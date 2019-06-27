@@ -69,7 +69,7 @@ TOYO BB-AB
 
 
 
-##Disclaimer
+## Disclaimer
 
 ```
 yosukesakaiはあなたに対し、本作品(3Dモデルデータおよびドキュメントを含む)に関し、何らの保証もいたしません。
@@ -103,7 +103,7 @@ yosukesakai may discontinue the publication of all or parts of this work (includ
 
 -------
 
-###memo  
+### memo  
 
 ##### Repricator 2X でPLAを使う  
 
